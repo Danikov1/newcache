@@ -1,0 +1,160 @@
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(94) : предупреждение 201: повторное объявление константы/макроса (идентификатор "FOREACH_I_Bot")
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(95) : предупреждение 201: повторное объявление константы/макроса (идентификатор "FOREACH_I_Character")
+C:\MOD WHITE RP\pawno\include\customhud.inc(71) : предупреждение 234: устаревшая функция (идентификатор "BS_Send") Use PR_SendPacket instead
+
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(115) : предупреждение 201: повторное объявление константы/макроса (идентификатор "M_DIALOG_DialogForPlayer")
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(4782) : предупреждение 213: несовпадение типов
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(4782) : предупреждение 213: несовпадение типов
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(4782) : предупреждение 213: несовпадение типов
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(6986) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(6986) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(8007) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(9362) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(10176) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(10176) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(10176) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(10178) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(10178) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(10178) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(10192) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(10192) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(10192) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(17286) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(31246) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(31247) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(31580) : идентификатору присвоено значение, но он не используется: "textAdmins"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(31684) : идентификатору присвоено значение, но он не используется: "textAdmins"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(45849) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(45850) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48548) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48710) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48710) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48710) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48713) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48713) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48713) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48744) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48744) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(48744) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(50069) : предупреждение 209: функция "pc_cmd_ahelp" должна возвращать значение
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(50075) -- (50093) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(50360) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(50362) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51017) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51017) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51017) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51042) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51042) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51042) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51081) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51081) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51081) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51084) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51084) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51084) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51084) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51086) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51180) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51201) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51201) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51201) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51206) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51208) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51326) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51326) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51326) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51326) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51328) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51332) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51332) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51332) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51335) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51335) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51335) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51337) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51337) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51337) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51365) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51365) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51365) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51368) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51368) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51368) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51372) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51372) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51372) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51861) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51861) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51861) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51901) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51901) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51901) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51947) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51947) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(51947) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53328) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53328) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53328) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53370) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53370) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53370) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53518) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53518) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53518) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53523) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53523) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53523) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53547) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53547) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53547) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53558) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53559) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53575) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53575) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53575) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53672) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53672) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53672) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53780) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53780) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53780) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53861) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53861) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53861) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53893) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53893) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53893) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53925) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53925) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53925) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53957) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53957) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(53957) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(54110) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(54110) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(54110) : предупреждение 202: количество аргументов не совпадает с объявлением
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(64679) : неправильная табуляция
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(64961) : предупреждение 209: функция "pc_cmd_givearmour" должна возвращать значение
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(65238) : предупреждение 219: переменная "reportText" уже объявлена в более глобальной зоне видимости
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(67) : идентификатор не используется: "BizCapital"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(68) : идентификатор не используется: "BizMaterial"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(67) : идентификатор не используется: "BizName"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(68) : идентификатор не используется: "BizWorkers"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(65238) : идентификатор не используется: "CMD_Report"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(65255) : идентификатор не используется: "HandleReportSelection"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(203) : идентификатор не используется: "JoinPed"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(5152) : идентификатор не используется: "Povor"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(5152) : идентификатор не используется: "Povorotnk"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(65243) : идентификатор не используется: "SendReportToAdmins"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(70) : идентификатор не используется: "WorkExp"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(70) : идентификатор не используется: "WorkName"
+C:\MOD WHITE RP\gamemodes\whiterp.pwn(70) : идентификатор не используется: "WorkRank"
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2017, ITB CompuPhase
+
+Размер заголовка:	   23520 байт
+Размер кода:		 1972172 байт
+Размер данных:		44419500 байт
+Размер стэка\кучи:	   25000 байт; Примерное макс. использование=5039 ячеек (20156 байт)
+Всего требуется:	46440192 байт
+
+Предупреждений:115.

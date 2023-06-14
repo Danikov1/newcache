@@ -1,0 +1,18 @@
+[
+    {
+      "color": "ffa500",
+      "dopname": "(X2 акции)",
+      "name": "SAMARKAND",
+      "online": 1000,
+      "maxonline": 1000
+
+    },
+    {
+      "color": "ffa500",
+      "dopname": "(X2 акции)",
+      "name": "MOSCOW",
+      "online": 1,
+      "maxonline": 1
+
+    }
+]

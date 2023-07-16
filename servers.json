@@ -1,18 +1,24 @@
 [
-    {
-      "color": "ffa500",
-      "dopname": "(X2 акции)",
-      "name": "SAMARKAND",
-      "online": 1000,
-      "maxonline": 1000
+  {
+    "color": "ffa500",
+    "dopname": "(X2 акции)",
+    "name": "SAMARKAND",
+    "online": 1000,
+    "maxonline": 1000
 
-    },
+  },
     {
-      "color": "ffa500",
-      "dopname": "(X2 акции)",
-      "name": "MOSCOW",
-      "online": 1,
-      "maxonline": 1
-
-    }
+      "online": "10",
+      "maxonline": "1000",
+      "color": "868480",
+      "x2": "true",
+      "key": "1424",
+      "name": "WHITE RP | PLATINUM",
+      "firstname": "PLATINUM",
+      "secondname": "",
+      "url": "whiterp.c1.biz",
+      "ip": "185.189.15.22:1600",
+      "port": "1600"
+      
+  }
 ]

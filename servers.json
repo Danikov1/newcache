@@ -8,17 +8,11 @@
 
   },
     {
-      "online": "10",
-      "maxonline": "1000",
-      "color": "868480",
-      "x2": "true",
-      "key": "1424",
-      "name": "PLATINUM",
-      "firstname": "PLATINUM",
-      "secondname": "X2",
-      "url": "whiterp.c1.biz",
-      "ip": "185.189.15.22:1600",
-      "port": "1600"
+    "color": "868480",
+    "dopname": "(X2 акции)",
+    "name": "SAMARKAND",
+    "online": 21,
+    "maxonline": 1000
       
   }
 ]

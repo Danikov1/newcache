@@ -5,5 +5,12 @@
       "img": "auto_skyline",
       "id": 28,
       "cost": 54
+    },
+    {
+      "name": "ДЛЯ ВАС",
+      "name2": "LAMBORGHINI AVENDATOR",
+      "img": "auto_lamba",
+      "id": 29,
+      "cost": 55
     }
   ]
